@@ -1,7 +1,7 @@
 """
 Implementación clásica del cifrado Trivium en Python.
 
-Este script implementa el algoritmo de cifrado por flujo Trivium, 
+Este script implementa el algoritmo de cifrado de flujo Trivium, 
 siguiendo la especificación original propuesta por 
 Christophe De Cannière y Bart Preneel.
 
