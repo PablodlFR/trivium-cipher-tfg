@@ -6,7 +6,7 @@ Este repositorio contiene la implementación del cifrado en flujo **Trivium**, t
 - `cl_trivium.py`  
   Implementación clásica del cifrado Trivium en Python.
   
-  - `qc_trivium.py`  
+- `qc_trivium.py`  
   Implementación cuántica de Trivium utilizando la librería Qiskit.
 
 - `grover_trivium_attack.py`  
